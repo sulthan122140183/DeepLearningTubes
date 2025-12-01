@@ -1,5 +1,5 @@
-tensorflow==2.14
-keras==2.14
+tensorflow
+keras
 mediapipe
 opencv-python
 numpy
@@ -8,4 +8,4 @@ scikit-learn
 tqdm
 pillow
 streamlit
-protobuf==3.20.3
+protobuf
